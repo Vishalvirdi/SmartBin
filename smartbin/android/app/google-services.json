@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778339517335",
+    "project_id": "smartbin-35fbf",
+    "storage_bucket": "smartbin-35fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778339517335:android:a7dc79b030dad61fcebad2",
+        "android_client_info": {
+          "package_name": "com.example.smartbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzL9qRCf6NSOou6k6ICXq7AyCVoo3rNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
